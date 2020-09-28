@@ -1,2 +1,2 @@
 # Estadística UIS
-Trabajo final estadística 2 UIS sobre regresión lineal múltiple
+Profundización en conocimientos de estadística aplicada
